@@ -47,9 +47,8 @@ Color is calculated using a depth-based conditional logic in `logic.js`.
 
 1. **Clone the repository:**
 
-```bash
 git clone https://github.com/yourusername/leaflet-challenge.git
-cd leaflet-challenge/Leaflet-Part-1 ```
+cd leaflet-challenge/Leaflet-Part-1 
 
 2.	Open the map in your browser:
 
